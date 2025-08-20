@@ -3,8 +3,7 @@ Tutedude
 # Python Assignment Scripts
 
 ##Overview
-This repository contains two simple Python programs created for learning and practice purposes.  
-Task1.py : Asks the user for their first and last name, then displays a personalized greeting.
-Task2.py : Takes two numbers as input and performs basic mathematical operations (addition, subtraction, multiplication, division).
+Your README file summary could be:
 
+This repository contains various Python programming assignments designed to demonstrate foundational concepts like loops, functions, and math operations. It includes practical examples such as factorial calculations and the use of Python's math module for square roots, logarithms, and trigonometric functions. The repository is structured for easy use, with instructions on running the scripts and contributing improvements, making it a helpful resource for learning and practicing Python programming.
 
